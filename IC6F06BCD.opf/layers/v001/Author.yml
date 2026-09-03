@@ -1,0 +1,25 @@
+id: facdec8b30e6470d821e8a744575e081
+annotation_type: Author
+revision: '00001'
+annotations:
+  eaa4145c8b24455fba202e588a0df613:
+    span:
+      start: 239
+      end: 270
+  5e336192e45b447dac66ec22c1be3bc4:
+    span:
+      start: 371
+      end: 403
+  03721b2d82064a79a751c0669957d49c:
+    span:
+      start: 466
+      end: 494
+  1d07e22b377f440786d1624cdd5e79b8:
+    span:
+      start: 576
+      end: 604
+local_ids:
+  eaa4145c8b24455fba202e588a0df613: 200000
+  5e336192e45b447dac66ec22c1be3bc4: 200001
+  03721b2d82064a79a751c0669957d49c: 200002
+  1d07e22b377f440786d1624cdd5e79b8: 200003

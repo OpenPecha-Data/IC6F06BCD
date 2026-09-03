@@ -1,0 +1,32 @@
+id: IC6F06BCD
+initial_creation_type: ebook
+source_metadata:
+  id: RDI-KK-23
+  title: དྭགས་བརྒྱུད་སྒྲུབ་པའི་ཐེམ་སྐས་གདམས་ངག་ཕྱོགས་བསྒྲིགས།
+  author: མཛད་པ་པོ། དཔའ་བོ་གཙུག་ལག་ཕྲེང་བ།, མཛད་པ་པོ། དཔའ་བོ་གཙུག་ལག་རྒྱ་མཚོ།, མཛད་པ་པོ།
+    མཁས་གྲུབ་རཱ་ག་ཨ་སྱ།, མཛད་པ་པོ། ཀརྨ་ཚེ་དབང་ཀུན་ཁྱབ།
+  authors: &id001
+  - མཛད་པ་པོ། དཔའ་བོ་གཙུག་ལག་ཕྲེང་བ།
+  - མཛད་པ་པོ། དཔའ་བོ་གཙུག་ལག་རྒྱ་མཚོ།
+  - མཛད་པ་པོ། མཁས་གྲུབ་རཱ་ག་ཨ་སྱ།
+  - མཛད་པ་པོ། ཀརྨ་ཚེ་དབང་ཀུན་ཁྱབ།
+  sku: RDI-KK-23
+  cover: RDI-KK-23.jpeg
+  volume: {}
+ebook_metadata:
+  title: དྭགས་བརྒྱུད་སྒྲུབ་པའི་ཐེམ་སྐས་གདམས་ངག་ཕྱོགས་བསྒྲིགས།
+  authors: *id001
+  sku: RDI-KK-23
+  cover: RDI-KK-23.jpeg
+layers:
+- Author
+- BookNumber
+- BookTitle
+- Chapter
+- Citation
+- Commentary
+- Footnote
+- Sabche
+- SubTitle
+- Tsawa
+- Yigchung

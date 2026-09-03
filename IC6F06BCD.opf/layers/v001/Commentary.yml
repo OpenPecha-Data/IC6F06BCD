@@ -1,0 +1,2553 @@
+id: 53fa6b031d794df0901587aa9a4c53c2
+annotation_type: Commentary
+revision: '00001'
+annotations:
+  722cfaaf0bc044ebbce09a801b5d288b:
+    span:
+      start: 2803
+      end: 3461
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  66911480540448b097cccccff243357d:
+    span:
+      start: 3463
+      end: 3639
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  8535838ce8a942d193c8d0f2720c98c2:
+    span:
+      start: 3756
+      end: 4221
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  cd89c300f8ad48a4a6fb93fd003e5dc8:
+    span:
+      start: 4223
+      end: 4410
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  927fdbcc102540649fcfcc925f96a0d8:
+    span:
+      start: 4676
+      end: 4697
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  d7579e0e3c2c4af2adccc02f87dcb2fc:
+    span:
+      start: 4699
+      end: 4883
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  e2b510a2cd0946d89067c36db0102e8f:
+    span:
+      start: 5000
+      end: 5769
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  f643794d6c604a1ba8bc801665299070:
+    span:
+      start: 5771
+      end: 6556
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  fb44ddad6862413986063b1ea50e56c6:
+    span:
+      start: 6558
+      end: 7268
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  9d8e30fd84bc48b98e551c614a779c46:
+    span:
+      start: 7401
+      end: 7945
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  da6db885cb74443c827530740b69026e:
+    span:
+      start: 7947
+      end: 9128
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  56dab3b6d6844c4a846e6fbacb3fce12:
+    span:
+      start: 9245
+      end: 9965
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  aa25e5e7a53c46b78d83b8fe796ec55e:
+    span:
+      start: 9967
+      end: 10218
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  83064d46eb634573a7988c6a00094736:
+    span:
+      start: 10545
+      end: 10921
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  a35b37e889714141bc7a7c158aaf97bd:
+    span:
+      start: 10923
+      end: 11993
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  dc1b14549cac41219f7e16dedccb5155:
+    span:
+      start: 11995
+      end: 13144
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  f12d42e2d32240b1860393f76eee440f:
+    span:
+      start: 13146
+      end: 14059
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  73fd09c44658468bad655956dca88756:
+    span:
+      start: 14061
+      end: 14597
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  3e531974a7b642efbf6b2e311f321ebf:
+    span:
+      start: 14599
+      end: 14955
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  17aa4ce5a0394161afa89586f36ad221:
+    span:
+      start: 14957
+      end: 15062
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  049a247eabaf41cda4845a068b37aa5d:
+    span:
+      start: 15175
+      end: 15285
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  23fc7e6219964fe5ab212b7fd31e8a59:
+    span:
+      start: 15316
+      end: 16337
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  e56feb72240348be883a538e21339fcf:
+    span:
+      start: 16407
+      end: 17825
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  b7c0a3e8b611498d8e937aa0b47c5edf:
+    span:
+      start: 17941
+      end: 18034
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  eac8097b70754b3393393a272ecaa585:
+    span:
+      start: 18066
+      end: 18248
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  2626111a41c34f1cba2f06f7adf8bce8:
+    span:
+      start: 18283
+      end: 18784
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  150604f50723415fa6e9a4613b00ccf1:
+    span:
+      start: 18903
+      end: 20659
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  6ae2b9d4818b45649d6fef754b31b0c3:
+    span:
+      start: 20687
+      end: 20743
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  18340a2cc01e459e823e604127be3758:
+    span:
+      start: 20867
+      end: 20925
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  724abeb63dc546eaabd8f41f20212a6b:
+    span:
+      start: 21369
+      end: 21581
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  d3d90910efd043ffba23353932266d0d:
+    span:
+      start: 21613
+      end: 21692
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  5332371e178f4f0ea49ebc5c5f66cb62:
+    span:
+      start: 21731
+      end: 24167
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  5a16b733e5a944d2a6fe9a53ebe6aea2:
+    span:
+      start: 24287
+      end: 24416
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  91c64e9ec95d49edb68b3b71830cb4e1:
+    span:
+      start: 24515
+      end: 24559
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  14dfe3ffb25a4f1bbd10e3dba7a5216f:
+    span:
+      start: 24747
+      end: 24759
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  cb0a6ffed54147199f778f685ecaabda:
+    span:
+      start: 24761
+      end: 24932
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  0835485d763f490cb73fd910ba1d304a:
+    span:
+      start: 25221
+      end: 27157
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  8b531864bee44c95bcdf019a5fb69682:
+    span:
+      start: 27159
+      end: 27505
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  9f936cc5f60f4e18a674e1fe37f96eec:
+    span:
+      start: 27507
+      end: 27538
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  0e8da004149a443a8dc4f03101b42524:
+    span:
+      start: 27595
+      end: 27905
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  c134f898324047bea9a113b5b7ba34e7:
+    span:
+      start: 27996
+      end: 28015
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  c4fe4fb3c0884f1b91fa579a729d9f5d:
+    span:
+      start: 28167
+      end: 29444
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  633c7ec31b9240ec92e4770529b86087:
+    span:
+      start: 29446
+      end: 29490
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  a27dbeb444a44f0887ac313f5a3e197f:
+    span:
+      start: 30120
+      end: 31002
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  7f965288354d45399a1a7c1621f885d5:
+    span:
+      start: 31004
+      end: 31086
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  31279b1a4eea4200b6f12c010d7eccb0:
+    span:
+      start: 31490
+      end: 33186
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  c6a0cde4b31d4fa4982f173b6e8997e1:
+    span:
+      start: 33188
+      end: 33219
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  4e53c367c5bf409899aba9ad9a3d4896:
+    span:
+      start: 33278
+      end: 33398
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  3ad26d693135467793508f87a9bcf330:
+    span:
+      start: 33779
+      end: 34093
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  d5fc31554595473f828a8972cead3870:
+    span:
+      start: 34095
+      end: 35112
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  e4507d369b6e46d4a57c9c2a3b27ef11:
+    span:
+      start: 35114
+      end: 36112
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  14c7125e15f9447fbd5506b7ed413cd2:
+    span:
+      start: 36702
+      end: 37958
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  e3de5c6b10d241019bdaa419fc8c0ca6:
+    span:
+      start: 37960
+      end: 40393
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  9bc0ad1ad2154a87b9888d9342d77a59:
+    span:
+      start: 40470
+      end: 40509
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  27daaaa366e94d19b3c25ec16664bfa4:
+    span:
+      start: 40536
+      end: 41373
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  ab62f234cd464f4f9ede514ed087bbc0:
+    span:
+      start: 41392
+      end: 42032
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  3f098c60dfad4d1cb6a4f225134f9f30:
+    span:
+      start: 42112
+      end: 42315
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  19890dc38dc5464ab2a5d398e660c555:
+    span:
+      start: 42493
+      end: 47833
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  dbd3b9cb44ae43baa31ae0c639241df0:
+    span:
+      start: 47863
+      end: 48461
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  5359ff019f4b40bebd30a5f2fb520078:
+    span:
+      start: 48496
+      end: 48996
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  3a238c292cf440b19712b6d17b52fa14:
+    span:
+      start: 48998
+      end: 49326
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  03774b8a2c52451dac6078967cfc9c27:
+    span:
+      start: 49328
+      end: 50495
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  c7ff43be5db1440db47284a570c86b5e:
+    span:
+      start: 50497
+      end: 50752
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  d9ed56144d684abeb865c8335ff2917b:
+    span:
+      start: 50754
+      end: 52321
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  099d3e6175a84f619af98efc0198cf50:
+    span:
+      start: 52323
+      end: 53016
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  b34aab72d2b646cc85c97d14a6491c73:
+    span:
+      start: 53045
+      end: 53988
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  3a3abe3e64814274b067847e7e2a6811:
+    span:
+      start: 54016
+      end: 54554
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  71890e5911cd4d1a879eeeaa92bb89af:
+    span:
+      start: 54556
+      end: 55739
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  b132914291d54a798d96dc8db4154624:
+    span:
+      start: 55770
+      end: 56512
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  99c59e93ae9b4dd38dbd9b6e5fb98fae:
+    span:
+      start: 56514
+      end: 56721
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  22b2b88aa26644c685f72cdddda69408:
+    span:
+      start: 56842
+      end: 56888
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  b00ccdd36ed84b6ab658860b0d6a8794:
+    span:
+      start: 57012
+      end: 57321
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  50e9a64888534ec78e612e4f089fefff:
+    span:
+      start: 57323
+      end: 58242
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  bf66067b59db4680bfed95b1dcc82810:
+    span:
+      start: 58244
+      end: 58858
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  da3d235320934ee39d2dd7aa1c7dc411:
+    span:
+      start: 59073
+      end: 59713
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  aaa5d8bf0f3748c8a4fd9c102bbc7fb0:
+    span:
+      start: 59715
+      end: 60565
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  33c437e831ce497888302e32c970fb45:
+    span:
+      start: 60567
+      end: 61430
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  ae3609bc34f74d06aabb1ee31eb5121c:
+    span:
+      start: 61461
+      end: 62753
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  8349c1caea4143ccbb4515fff3951ac5:
+    span:
+      start: 62783
+      end: 64707
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  cbc882190dc44429958fda32c8a14d5b:
+    span:
+      start: 64742
+      end: 64937
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  e3f5ef1b79e64562857e2e8e0b813bab:
+    span:
+      start: 65213
+      end: 65284
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  5418c52b27ed4e2baeb0c5f6f651d619:
+    span:
+      start: 65724
+      end: 65932
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  62285e9f149e4bbe9f80fbcbbcdf7b0f:
+    span:
+      start: 66562
+      end: 66598
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  f47ba037983a4501b6d1b912b71f2673:
+    span:
+      start: 66657
+      end: 66701
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  4b405aafd3424b8e8d98d8d341455964:
+    span:
+      start: 66726
+      end: 66980
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  8735a498927941d9b69e674d21a71b7d:
+    span:
+      start: 67032
+      end: 68260
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  09c7951f588b4fa591a2034b6d7ff0ff:
+    span:
+      start: 68262
+      end: 68553
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  249d07859fcf4033b8c3fb1503b4e6b4:
+    span:
+      start: 68783
+      end: 69461
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  79cc653b8cfd4063b291b94fac408c57:
+    span:
+      start: 69463
+      end: 69764
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  68853ba4e4ad4bb689b68f403dadcb56:
+    span:
+      start: 69766
+      end: 69996
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  b70104dffa574f75935a27f4df8ad2a1:
+    span:
+      start: 70217
+      end: 73529
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  d0d21dbae1054d3990db643010d8cc29:
+    span:
+      start: 73531
+      end: 73800
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  e2f6f71894fd4569967b7fe2f0dba334:
+    span:
+      start: 73802
+      end: 74327
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  d5355e01896c40f881da024321d83a93:
+    span:
+      start: 74329
+      end: 75780
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  061142b16cdc4afcbf71d1f1eed3b53f:
+    span:
+      start: 75782
+      end: 79716
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  8967df33ffa34324acbf5d07b13c69af:
+    span:
+      start: 79718
+      end: 81494
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  2e775c50cc274be1b0a92b72b3186747:
+    span:
+      start: 81496
+      end: 83026
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  99f2ae2c9f2f41a69e61f945771f0edc:
+    span:
+      start: 83028
+      end: 83527
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  0f597c1c2472472bb6dbd93c4547ade2:
+    span:
+      start: 83529
+      end: 86230
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  8981b0d543034c06858350c57c881c49:
+    span:
+      start: 86232
+      end: 87701
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  410b8847a4fe4876b682b7dd2ae2e0c5:
+    span:
+      start: 87703
+      end: 88657
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  ab552347ceef4f07b6b0e2fcbb7d7db9:
+    span:
+      start: 88659
+      end: 89537
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  a465b71db58b482b96608c58fcb9fedc:
+    span:
+      start: 89539
+      end: 90607
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  dfdace65b9d24fec925b8ebe8e0e3da1:
+    span:
+      start: 90609
+      end: 91098
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  54caff4c457947fba0844f04cc88f274:
+    span:
+      start: 91100
+      end: 91940
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  34be428fc4cb421ab795024fa581bd31:
+    span:
+      start: 91942
+      end: 92088
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  9f1412d28d1b4006a6520dc0e459c66a:
+    span:
+      start: 92090
+      end: 92314
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  284d4e7670904166ab65c6bfd49ae9f0:
+    span:
+      start: 92316
+      end: 93408
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  3eb799551f4a435ebdd974f7f862eb10:
+    span:
+      start: 93410
+      end: 97835
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  7198795fe70942e5bcc92efc2947a73c:
+    span:
+      start: 97837
+      end: 99836
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  2eebe7e0158e471a87796b041b54d886:
+    span:
+      start: 99838
+      end: 101531
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  d2806c672b2f49d38944542d48d4849e:
+    span:
+      start: 101614
+      end: 101937
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  f3b91aa8a86b41678013885dac20f444:
+    span:
+      start: 102047
+      end: 102145
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  67c8fe2c4d4a4965977a5f1b3a3c5306:
+    span:
+      start: 102167
+      end: 102278
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  1eca4a132ef14a63a9630c341e7bab45:
+    span:
+      start: 102311
+      end: 102648
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  f1d83351463944dd8f15d7f5707e7c0f:
+    span:
+      start: 102650
+      end: 104533
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  223ff33deae64b15b9bcb41c8a79f6ba:
+    span:
+      start: 104535
+      end: 104853
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  943c0e8eedc54fe088e87712e8584e73:
+    span:
+      start: 104885
+      end: 108889
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  234ecd759c1d4367babae145eda1a460:
+    span:
+      start: 108891
+      end: 109856
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  3eacb3f50be749ccb451a269f29b320b:
+    span:
+      start: 109858
+      end: 110006
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  75cf5a8de62147898b18b53ca011506c:
+    span:
+      start: 110008
+      end: 111939
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  03245081de4a49b1a5d060009b7321d1:
+    span:
+      start: 112028
+      end: 113927
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  e87dd9af0a3f4718ab7fbbd04c1aa9d7:
+    span:
+      start: 113929
+      end: 115331
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  3b98201eb85044a7908e5f3240276053:
+    span:
+      start: 115389
+      end: 117648
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  24e98db0098442f4b8099c43a7ce0771:
+    span:
+      start: 117650
+      end: 118034
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  8ebdd80815fd46d2813dc95bed991982:
+    span:
+      start: 118036
+      end: 118610
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  d4b37eabbd8745a189e7cc61a59b83ed:
+    span:
+      start: 118612
+      end: 120165
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  371765fe35224c2da829b32374c8beca:
+    span:
+      start: 120282
+      end: 121469
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  7e1c02c8ab38416caf4bc15ad5bfffc0:
+    span:
+      start: 121471
+      end: 122110
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  5a5d99bda63441fb9f3d31cc2124a222:
+    span:
+      start: 122112
+      end: 122407
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  12beb7bf9f8d41668806822b2d7c9749:
+    span:
+      start: 122409
+      end: 124514
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  a32ae85dacf84be48aa598993e64c60e:
+    span:
+      start: 124516
+      end: 125474
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  e27f060ead2c4233ad070f0c127ccbe3:
+    span:
+      start: 125476
+      end: 126491
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  047616118385432487386d28712f0259:
+    span:
+      start: 126493
+      end: 127167
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  c507cd4b349647059c6939262e0c8587:
+    span:
+      start: 127169
+      end: 128601
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  c4f5bca38b104038a7c08f0dbb58c161:
+    span:
+      start: 128603
+      end: 129824
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  515b5822522440ebb186149526da73c6:
+    span:
+      start: 129826
+      end: 132394
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  a7076fd7f92b4bd6aeeb5e268eb1dc28:
+    span:
+      start: 132396
+      end: 133905
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  4fae490b3b8a45a58bfb633b76bb4145:
+    span:
+      start: 134010
+      end: 134313
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  1936530b40fd4b3fae7ca3de0dabe70e:
+    span:
+      start: 134315
+      end: 135959
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  39b23185f0ff438e8b0d46117b4465e0:
+    span:
+      start: 135961
+      end: 136353
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  da8dc1930ace48f4a59becb764c26727:
+    span:
+      start: 136355
+      end: 136981
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  695d955918884a7b82e7ca951c36d2bd:
+    span:
+      start: 136983
+      end: 138717
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  76bb1bdaf39a4525aa7db5210531efce:
+    span:
+      start: 138719
+      end: 139404
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  7d1807cb4f334d6a9051385ca669c472:
+    span:
+      start: 139406
+      end: 139694
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  1bc3dc62da334e5db1c203ab143508b7:
+    span:
+      start: 139696
+      end: 141474
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  3260bfa1889b432284d2ae6c493cd913:
+    span:
+      start: 141476
+      end: 142615
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  7e8a2be1db1f447a8d15ff1c5232ff86:
+    span:
+      start: 142617
+      end: 143439
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  2ed12ada4e144b2d8ae44e8cebb2c878:
+    span:
+      start: 143441
+      end: 144551
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  d69e632fa51c45b69d4027b712982508:
+    span:
+      start: 144553
+      end: 145343
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  816548e27ba1475ebc725154a95825f7:
+    span:
+      start: 145345
+      end: 146217
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  f08949811ff640d79aab6881641da2e9:
+    span:
+      start: 146219
+      end: 146893
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  c9490f549f114a5f81f0d7f541c6a815:
+    span:
+      start: 146999
+      end: 148785
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  dff5df3933df4e979ead4b7a439197e3:
+    span:
+      start: 148787
+      end: 151062
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  0fc3bc3b088d4cd098aad6c9bb40c379:
+    span:
+      start: 151064
+      end: 151810
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  aca60d526aee40bd955790296846e087:
+    span:
+      start: 151812
+      end: 153422
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  6e88ec11a8cd437c8118a95d95fde81f:
+    span:
+      start: 153424
+      end: 154221
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  27ff0fc39a3249b0961abd1cda9663b0:
+    span:
+      start: 154223
+      end: 157596
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  64116651b34249edbdd098039a319f56:
+    span:
+      start: 157598
+      end: 158091
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  cef18c2eaeaa40f4a40daacb57660e85:
+    span:
+      start: 158200
+      end: 158805
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  921db26045f34e08ad2a7ef41e6512c9:
+    span:
+      start: 158807
+      end: 160823
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  a4c1b4fd7ebb4aaeb64b6c2f801f3946:
+    span:
+      start: 160825
+      end: 161199
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  f17e277d13c24008912c1befe5dbd28e:
+    span:
+      start: 161201
+      end: 161636
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  3bd26fdc4fd84a05adb1e9a0b5551400:
+    span:
+      start: 161638
+      end: 161985
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  5aa938bf44ad4fd0ad61263429ec96ec:
+    span:
+      start: 161987
+      end: 162348
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  960303b30ae94d8e8abbc9d8afc0f33d:
+    span:
+      start: 162350
+      end: 162707
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  7fbd6cfac3d54d638291e6885c3bf7b4:
+    span:
+      start: 162709
+      end: 163095
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  0c56361eb0884ed485b077275289cf4d:
+    span:
+      start: 163097
+      end: 163439
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  98d3d0c67b664c95b0c4b3e13c04c244:
+    span:
+      start: 163441
+      end: 163709
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  6bfd5e110ff24ad09f2b917560364044:
+    span:
+      start: 163711
+      end: 163982
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  f332eca44024463fa251701ab1b151dc:
+    span:
+      start: 163984
+      end: 164254
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  8c1a42f59df14190b8d1f749cc07d5e6:
+    span:
+      start: 164256
+      end: 164490
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  58f85362dcee44da88503685b76b471e:
+    span:
+      start: 164492
+      end: 164980
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  250085ede46b409587710e5e80f500c8:
+    span:
+      start: 164982
+      end: 166520
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  5bc31f197b9942d598b85db1450f2553:
+    span:
+      start: 166522
+      end: 167347
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  545f0a4a52c647c697ac3a534b5fefa8:
+    span:
+      start: 167349
+      end: 168069
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  7bfc87f5f65d4bf29a74ba8df76b9d3b:
+    span:
+      start: 168071
+      end: 168844
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  3f461d407fe046eaac5081b45e158bff:
+    span:
+      start: 168846
+      end: 169968
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  65f9979875e2472eb6a6f15526346971:
+    span:
+      start: 169970
+      end: 171752
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  f0fbce880e444542bb5a8aa7b0122420:
+    span:
+      start: 171891
+      end: 174554
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  718a9b6112f6402e880330ff3955d588:
+    span:
+      start: 174556
+      end: 175763
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  3b3f95b9c2cc46b4bc13b1a5652f8138:
+    span:
+      start: 175765
+      end: 179128
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  61291880d2464503acdf6ee0f0b8a399:
+    span:
+      start: 179130
+      end: 179987
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  cb5e54ae0a7440348dc0d8cfad3021e0:
+    span:
+      start: 179989
+      end: 180171
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  7d04a52757f348a8a716dd12a8108929:
+    span:
+      start: 180300
+      end: 186157
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  259f0e8d6ac8467b92fc471eab7fb950:
+    span:
+      start: 186264
+      end: 187294
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  688120c060e04e2698eafde16e4afffc:
+    span:
+      start: 187296
+      end: 188272
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  9a77bf033437432fb75dff5933882fd4:
+    span:
+      start: 188274
+      end: 191044
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  fc1032167f1b48c98bfbcc239c48db2b:
+    span:
+      start: 191046
+      end: 191711
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  2ff01f9e53e942739b4ba0caf37f2cfb:
+    span:
+      start: 191713
+      end: 192919
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  3220122c9e804463b728424e5f11edf5:
+    span:
+      start: 192921
+      end: 194757
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  ccb7375ae6fa4e49a3dac91d3389402a:
+    span:
+      start: 194854
+      end: 201051
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  36b597575fed4245aac499bbc500a846:
+    span:
+      start: 201053
+      end: 201683
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  192f3cbddc304dd59ebff207ff6c15d2:
+    span:
+      start: 201685
+      end: 203677
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  be2bf56d99424493a35e17f18b4daa56:
+    span:
+      start: 203791
+      end: 204361
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  6dd0133e462543b28f8480a57d455c17:
+    span:
+      start: 204363
+      end: 205728
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  199bb7e7736647f8a18430d5c09cb228:
+    span:
+      start: 205730
+      end: 207331
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  cd43d2e4485743388260d83f438508cc:
+    span:
+      start: 207424
+      end: 220001
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  2b86fe16f5aa414d951c71d7e03bfeed:
+    span:
+      start: 220137
+      end: 220161
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  c62d6646f97b41b6829b5981ce865705:
+    span:
+      start: 220163
+      end: 220326
+    isverse: true
+  4c4b0e9d1d004acd886819a378486620:
+    span:
+      start: 220328
+      end: 222501
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  2a9af7b1152d4481b3d2b018902dab89:
+    span:
+      start: 222503
+      end: 223878
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  7638baa3c2b649d0baadfe2507345edb:
+    span:
+      start: 223880
+      end: 225830
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  aaf25b03eeca40e38fb1a494be221fc6:
+    span:
+      start: 225832
+      end: 227499
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  7fba40e0088640fb93d62b988e71f23d:
+    span:
+      start: 227586
+      end: 227691
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  2e2f49320c6b4b93ae582a8f2152c4e5:
+    span:
+      start: 227720
+      end: 227947
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  0b229b3e385146328cd7e72c5c701346:
+    span:
+      start: 228074
+      end: 229577
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  d452c0f8d9d14b78b396fcd96fa75f03:
+    span:
+      start: 229605
+      end: 230222
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  7e6a2d0b8932453c87f338ee9e03f0e3:
+    span:
+      start: 230342
+      end: 230732
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  3793a678a5d044628514f2fbcfed8218:
+    span:
+      start: 230973
+      end: 231083
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  cbce11f6af5a4005a91f571115ceab66:
+    span:
+      start: 231247
+      end: 231882
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  589e78f938ae447784d3bbc53ba4f880:
+    span:
+      start: 232423
+      end: 233280
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  aab7653fcd474820b8645b3d015f6535:
+    span:
+      start: 234310
+      end: 234349
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  ac891424e1084f8f85e7149b8122e8f1:
+    span:
+      start: 234563
+      end: 234587
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  cf84f35ea2ca47648a5782bc37e09a42:
+    span:
+      start: 234704
+      end: 234728
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  44605226c5be4155831be04ba93ea014:
+    span:
+      start: 234845
+      end: 234869
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  cd3422e652e0437f81092c03de12aabb:
+    span:
+      start: 234945
+      end: 237488
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  ee02f7a9e46c4dd0910866328d8c24d1:
+    span:
+      start: 237597
+      end: 238753
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  e5fafcb71ead46a6ad6f53c833eb5fd6:
+    span:
+      start: 238775
+      end: 239801
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  92bf6258109045fb86fae1772e78f541:
+    span:
+      start: 239836
+      end: 240971
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  178a1b494c5f4724a6b11f50d1c39d89:
+    span:
+      start: 241000
+      end: 241259
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  9abc89d198d24d7097a35a18f8617263:
+    span:
+      start: 241378
+      end: 241559
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  49f094f1b3a94571bd0ec36734aaea88:
+    span:
+      start: 241673
+      end: 241901
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  3fb4ddd27561431d8ef74a5f9aec17f4:
+    span:
+      start: 242134
+      end: 242669
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  283ff0b0006e4cf0b9ce5a8f5c632862:
+    span:
+      start: 242798
+      end: 242829
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  351c4ce42da543ce8f59bc5d9b36edb7:
+    span:
+      start: 243052
+      end: 243068
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  e6a4328ea394406a937edd343f99ba6c:
+    span:
+      start: 243174
+      end: 244821
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  1f8c6567bacc42dd8f195dce4d6417e5:
+    span:
+      start: 244823
+      end: 245233
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  177a687bde9b462aa55cd47510ca148e:
+    span:
+      start: 245520
+      end: 245551
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  7945e5a2e076457d844d361bff0e7dbe:
+    span:
+      start: 245645
+      end: 245676
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  40ab26ebf77442e395649adadbcb51a1:
+    span:
+      start: 245678
+      end: 246883
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  c42ca7388fbc405e997ccec1248a13b9:
+    span:
+      start: 247014
+      end: 247439
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  de933be666c847389ad9d8f211c5e2c0:
+    span:
+      start: 247558
+      end: 247924
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  d655b48bafd2436a96499b279aebc514:
+    span:
+      start: 247926
+      end: 248775
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  8b8924ec13a84ef1af931196a62d539b:
+    span:
+      start: 248777
+      end: 250035
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  f8f7abd98e3b4c3eb12e57a5738e1dc7:
+    span:
+      start: 250037
+      end: 250860
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  0ac8593b0f0540899d1c3215f0ab6124:
+    span:
+      start: 250862
+      end: 251170
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  dc6c3710b2914fd4957c62dcd3b0a314:
+    span:
+      start: 251172
+      end: 251366
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  15728b4b6caf4b5eaa62ab25d0608865:
+    span:
+      start: 251368
+      end: 251522
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  6de2e95b59874ae6a4441f594279c133:
+    span:
+      start: 251524
+      end: 251732
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  57ea134280eb43d5ab478a2e08ea03a2:
+    span:
+      start: 251734
+      end: 252048
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  227c7e84cc4749d1abc2a6570c7a73db:
+    span:
+      start: 252050
+      end: 252360
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  61acc78a63874a71ab8f922e491a3dc1:
+    span:
+      start: 252382
+      end: 253081
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  0aa4ffc6aa11420cbb6c483428cb2ba5:
+    span:
+      start: 253281
+      end: 253711
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  029967b758064f2bb2fe6b649b85c09f:
+    span:
+      start: 253713
+      end: 255627
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  6f68fd4322e347e09ee6f61632cb025e:
+    span:
+      start: 255629
+      end: 256694
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  21a1462a194043c595bfff4f94d7bd7f:
+    span:
+      start: 256696
+      end: 257642
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  926706cef5064d0d9d8b80eb377cef7b:
+    span:
+      start: 257644
+      end: 258771
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  2f351bd48ea9464bbbdd12e297af61ba:
+    span:
+      start: 258773
+      end: 258926
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  3e8a819e8bcd421db4c10525d7b76d9d:
+    span:
+      start: 258928
+      end: 259245
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  bf0518de96af40de8852cbec661207c5:
+    span:
+      start: 259247
+      end: 259399
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  8c848d24cb2f4cf689ce686e48c586a9:
+    span:
+      start: 259401
+      end: 259557
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  0f13267bf6254a178a0bf4e08c28714e:
+    span:
+      start: 259559
+      end: 259979
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  100dbe2357884f829fd4f78ee95a4328:
+    span:
+      start: 259981
+      end: 262372
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  bbaa491cfb5249fc8c6e94db789fe6c1:
+    span:
+      start: 262374
+      end: 264905
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  1e5002dc124a4110b0a18f4ea9335f32:
+    span:
+      start: 264907
+      end: 265444
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  3cc65766a3e74404b9c74b7e5ec85591:
+    span:
+      start: 265486
+      end: 265526
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  0ecbf7408f2f4180978e18a208e8b1b4:
+    span:
+      start: 265528
+      end: 265609
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  68cbf8ff38264c1195e79e69d8dda640:
+    span:
+      start: 265611
+      end: 265664
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  acbba3b4bbc040cdbf0cba7fe0cdee70:
+    span:
+      start: 265666
+      end: 265730
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  8fa4e0a0877e4e5cb6fa66e5a369441f:
+    span:
+      start: 265732
+      end: 265815
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  6ad4639113d941379fb333a02fd37113:
+    span:
+      start: 265817
+      end: 265898
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  1793f86acb964884a54657f81d9f9205:
+    span:
+      start: 265900
+      end: 265984
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  5312e6469c9947fe975cc751d1783fd7:
+    span:
+      start: 265986
+      end: 266038
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  7ae0a18e693b4c3db66b0fc7f4f19c6e:
+    span:
+      start: 266040
+      end: 266205
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  2c879e1bdc564d43b23fa4f48e4a5a71:
+    span:
+      start: 266207
+      end: 266285
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  7a98162c5e7341559c8a06060253c4b1:
+    span:
+      start: 266287
+      end: 266359
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  f9cb2df18daa41ec834f478eb6ff671a:
+    span:
+      start: 266378
+      end: 266423
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  c1c4db9bb2a2482798a9b35a2e7ec7d2:
+    span:
+      start: 266425
+      end: 266466
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  d76da185a07c407caf486e55f13e36c2:
+    span:
+      start: 266468
+      end: 266526
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  e64e72af73d24bd2be8a8da490f2a591:
+    span:
+      start: 266528
+      end: 266575
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  6119fbf09d68458b9187adfd0028bd91:
+    span:
+      start: 266577
+      end: 266624
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  36ea09c146be401abc7cb81f35a2ae0b:
+    span:
+      start: 266626
+      end: 266681
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  b89831069ede420999265801c62b03b3:
+    span:
+      start: 266683
+      end: 266733
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  43f115687ea4470caaca352b8248c34d:
+    span:
+      start: 266735
+      end: 266790
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  8789bcadbffa4c869f6056620d1a6b4b:
+    span:
+      start: 266792
+      end: 266820
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  44c29573dc5a4653a8b4e49e0cb93ff1:
+    span:
+      start: 266822
+      end: 266868
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  a341a00b588743c7bc04f2726be181ed:
+    span:
+      start: 266870
+      end: 266919
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  2625167b9ef44437b0b96d7456efe2c7:
+    span:
+      start: 266921
+      end: 266967
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  80f5a8a76722485597b16241c02899bb:
+    span:
+      start: 266969
+      end: 266989
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  52c805cc931d4446bd62525aff438e0f:
+    span:
+      start: 266991
+      end: 267011
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  bff7e621929142adbbc6947e45875b7f:
+    span:
+      start: 267013
+      end: 267033
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  3adce753a6a44f87b6c419cb1fb8998b:
+    span:
+      start: 267035
+      end: 267114
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  cfed88170ea44629b01b161c5c221194:
+    span:
+      start: 267116
+      end: 267163
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  513a736e604e4ef0b41600f383aad473:
+    span:
+      start: 267165
+      end: 267286
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  685b919c68c145a899f0be0e0058124e:
+    span:
+      start: 267288
+      end: 267327
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  19a48549dc5b469f8a2dcec9637922b2:
+    span:
+      start: 267329
+      end: 269370
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  3eb9c4445130413fb2858b7448f303e9:
+    span:
+      start: 269372
+      end: 269565
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  c723bac6a32a46b38377e70b1459c7de:
+    span:
+      start: 269586
+      end: 270613
+    isverse: true
+  ed9e6fac2e6148bcae516f9c744ca6a5:
+    span:
+      start: 270615
+      end: 270768
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  639ee58cf92642b89800fb3e92e48590:
+    span:
+      start: 270770
+      end: 270911
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  0f9bde41888e4471ac93d57e0eddf5b6:
+    span:
+      start: 270913
+      end: 270967
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  ce9cab462d4d462ea689ca7387701e0b:
+    span:
+      start: 270969
+      end: 271015
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  7b20daf8635d4b808efbfc4365b7ac3f:
+    span:
+      start: 271017
+      end: 271072
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  6a4f7e693af44486b5328921771036e2:
+    span:
+      start: 271074
+      end: 271101
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  c96d1e9123f14131a99e5db11a45f2e2:
+    span:
+      start: 271103
+      end: 271175
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  fc145b8098d74f968016af647f5a9671:
+    span:
+      start: 271177
+      end: 271301
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  11769b87e83e46eabf131fc56b517ad4:
+    span:
+      start: 271303
+      end: 271378
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  ae48fc3580524a68a86938766ab20dac:
+    span:
+      start: 271380
+      end: 271527
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  e943921bffba4987babced6158f905ed:
+    span:
+      start: 271529
+      end: 271549
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  5a084ec6ebb7451e9ee16ddaa4417235:
+    span:
+      start: 271551
+      end: 271686
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  b36478abc2cd41749a3938dde3e1f4fb:
+    span:
+      start: 271688
+      end: 271724
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  02943e0688b44677ad8f45bd7ae9c828:
+    span:
+      start: 271726
+      end: 271762
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  82c2ce0ea08141dfb60bd7a6ecca876b:
+    span:
+      start: 271764
+      end: 271792
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  113efd485c6c425cb76971cb39b3f29a:
+    span:
+      start: 271794
+      end: 271798
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  792a285449994954af89ce4a44bb0313:
+    span:
+      start: 271800
+      end: 271824
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  d8ade1efb7c94a8ba5e22d702b4c4510:
+    span:
+      start: 271826
+      end: 271917
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  95b3fd31fc0a4142b39bfc9f81f76855:
+    span:
+      start: 271919
+      end: 271974
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  aa22e2e13b334f9ca49ea2f346628154:
+    span:
+      start: 271976
+      end: 272025
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  312656533c234d3c84bf643a70a9eda5:
+    span:
+      start: 272027
+      end: 272076
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  183a07f8c52b46e081b4bf4719b1e13a:
+    span:
+      start: 272078
+      end: 272127
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  6f5a8c6268e84d26ad054aaff35e40a6:
+    span:
+      start: 272129
+      end: 272178
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  81bb5b70b4b743928591ccf149eccf4c:
+    span:
+      start: 272180
+      end: 272229
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  615735539b6f4a10b1ab1c6fefa2591f:
+    span:
+      start: 272231
+      end: 272280
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  c8953b41e8da44af9ba67ac4f94fbea3:
+    span:
+      start: 272282
+      end: 272331
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  cf5aaa1a483449a599b04242420ce3c2:
+    span:
+      start: 272333
+      end: 272382
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  b896648ce8fd4ccbbcff268e68523993:
+    span:
+      start: 272384
+      end: 272433
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  ce934e9871174e4481bbb338a2e62bd6:
+    span:
+      start: 272435
+      end: 272484
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  e684a819fd384decb669ac0b431009a4:
+    span:
+      start: 272486
+      end: 272535
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+local_ids:
+  722cfaaf0bc044ebbce09a801b5d288b: 200000
+  66911480540448b097cccccff243357d: 200001
+  8535838ce8a942d193c8d0f2720c98c2: 200002
+  cd89c300f8ad48a4a6fb93fd003e5dc8: 200003
+  927fdbcc102540649fcfcc925f96a0d8: 200004
+  d7579e0e3c2c4af2adccc02f87dcb2fc: 200005
+  e2b510a2cd0946d89067c36db0102e8f: 200006
+  f643794d6c604a1ba8bc801665299070: 200007
+  fb44ddad6862413986063b1ea50e56c6: 200008
+  9d8e30fd84bc48b98e551c614a779c46: 200009
+  da6db885cb74443c827530740b69026e: 200010
+  56dab3b6d6844c4a846e6fbacb3fce12: 200011
+  aa25e5e7a53c46b78d83b8fe796ec55e: 200012
+  83064d46eb634573a7988c6a00094736: 200013
+  a35b37e889714141bc7a7c158aaf97bd: 200014
+  dc1b14549cac41219f7e16dedccb5155: 200015
+  f12d42e2d32240b1860393f76eee440f: 200016
+  73fd09c44658468bad655956dca88756: 200017
+  3e531974a7b642efbf6b2e311f321ebf: 200018
+  17aa4ce5a0394161afa89586f36ad221: 200019
+  049a247eabaf41cda4845a068b37aa5d: 200020
+  23fc7e6219964fe5ab212b7fd31e8a59: 200021
+  e56feb72240348be883a538e21339fcf: 200022
+  b7c0a3e8b611498d8e937aa0b47c5edf: 200023
+  eac8097b70754b3393393a272ecaa585: 200024
+  2626111a41c34f1cba2f06f7adf8bce8: 200025
+  150604f50723415fa6e9a4613b00ccf1: 200026
+  6ae2b9d4818b45649d6fef754b31b0c3: 200027
+  18340a2cc01e459e823e604127be3758: 200028
+  724abeb63dc546eaabd8f41f20212a6b: 200029
+  d3d90910efd043ffba23353932266d0d: 200030
+  5332371e178f4f0ea49ebc5c5f66cb62: 200031
+  5a16b733e5a944d2a6fe9a53ebe6aea2: 200032
+  91c64e9ec95d49edb68b3b71830cb4e1: 200033
+  14dfe3ffb25a4f1bbd10e3dba7a5216f: 200034
+  cb0a6ffed54147199f778f685ecaabda: 200035
+  0835485d763f490cb73fd910ba1d304a: 200036
+  8b531864bee44c95bcdf019a5fb69682: 200037
+  9f936cc5f60f4e18a674e1fe37f96eec: 200038
+  0e8da004149a443a8dc4f03101b42524: 200039
+  c134f898324047bea9a113b5b7ba34e7: 200040
+  c4fe4fb3c0884f1b91fa579a729d9f5d: 200041
+  633c7ec31b9240ec92e4770529b86087: 200042
+  a27dbeb444a44f0887ac313f5a3e197f: 200043
+  7f965288354d45399a1a7c1621f885d5: 200044
+  31279b1a4eea4200b6f12c010d7eccb0: 200045
+  c6a0cde4b31d4fa4982f173b6e8997e1: 200046
+  4e53c367c5bf409899aba9ad9a3d4896: 200047
+  3ad26d693135467793508f87a9bcf330: 200048
+  d5fc31554595473f828a8972cead3870: 200049
+  e4507d369b6e46d4a57c9c2a3b27ef11: 200050
+  14c7125e15f9447fbd5506b7ed413cd2: 200051
+  e3de5c6b10d241019bdaa419fc8c0ca6: 200052
+  9bc0ad1ad2154a87b9888d9342d77a59: 200053
+  27daaaa366e94d19b3c25ec16664bfa4: 200054
+  ab62f234cd464f4f9ede514ed087bbc0: 200055
+  3f098c60dfad4d1cb6a4f225134f9f30: 200056
+  19890dc38dc5464ab2a5d398e660c555: 200057
+  dbd3b9cb44ae43baa31ae0c639241df0: 200058
+  5359ff019f4b40bebd30a5f2fb520078: 200059
+  3a238c292cf440b19712b6d17b52fa14: 200060
+  03774b8a2c52451dac6078967cfc9c27: 200061
+  c7ff43be5db1440db47284a570c86b5e: 200062
+  d9ed56144d684abeb865c8335ff2917b: 200063
+  099d3e6175a84f619af98efc0198cf50: 200064
+  b34aab72d2b646cc85c97d14a6491c73: 200065
+  3a3abe3e64814274b067847e7e2a6811: 200066
+  71890e5911cd4d1a879eeeaa92bb89af: 200067
+  b132914291d54a798d96dc8db4154624: 200068
+  99c59e93ae9b4dd38dbd9b6e5fb98fae: 200069
+  22b2b88aa26644c685f72cdddda69408: 200070
+  b00ccdd36ed84b6ab658860b0d6a8794: 200071
+  50e9a64888534ec78e612e4f089fefff: 200072
+  bf66067b59db4680bfed95b1dcc82810: 200073
+  da3d235320934ee39d2dd7aa1c7dc411: 200074
+  aaa5d8bf0f3748c8a4fd9c102bbc7fb0: 200075
+  33c437e831ce497888302e32c970fb45: 200076
+  ae3609bc34f74d06aabb1ee31eb5121c: 200077
+  8349c1caea4143ccbb4515fff3951ac5: 200078
+  cbc882190dc44429958fda32c8a14d5b: 200079
+  e3f5ef1b79e64562857e2e8e0b813bab: 200080
+  5418c52b27ed4e2baeb0c5f6f651d619: 200081
+  62285e9f149e4bbe9f80fbcbbcdf7b0f: 200082
+  f47ba037983a4501b6d1b912b71f2673: 200083
+  4b405aafd3424b8e8d98d8d341455964: 200084
+  8735a498927941d9b69e674d21a71b7d: 200085
+  09c7951f588b4fa591a2034b6d7ff0ff: 200086
+  249d07859fcf4033b8c3fb1503b4e6b4: 200087
+  79cc653b8cfd4063b291b94fac408c57: 200088
+  68853ba4e4ad4bb689b68f403dadcb56: 200089
+  b70104dffa574f75935a27f4df8ad2a1: 200090
+  d0d21dbae1054d3990db643010d8cc29: 200091
+  e2f6f71894fd4569967b7fe2f0dba334: 200092
+  d5355e01896c40f881da024321d83a93: 200093
+  061142b16cdc4afcbf71d1f1eed3b53f: 200094
+  8967df33ffa34324acbf5d07b13c69af: 200095
+  2e775c50cc274be1b0a92b72b3186747: 200096
+  99f2ae2c9f2f41a69e61f945771f0edc: 200097
+  0f597c1c2472472bb6dbd93c4547ade2: 200098
+  8981b0d543034c06858350c57c881c49: 200099
+  410b8847a4fe4876b682b7dd2ae2e0c5: 200100
+  ab552347ceef4f07b6b0e2fcbb7d7db9: 200101
+  a465b71db58b482b96608c58fcb9fedc: 200102
+  dfdace65b9d24fec925b8ebe8e0e3da1: 200103
+  54caff4c457947fba0844f04cc88f274: 200104
+  34be428fc4cb421ab795024fa581bd31: 200105
+  9f1412d28d1b4006a6520dc0e459c66a: 200106
+  284d4e7670904166ab65c6bfd49ae9f0: 200107
+  3eb799551f4a435ebdd974f7f862eb10: 200108
+  7198795fe70942e5bcc92efc2947a73c: 200109
+  2eebe7e0158e471a87796b041b54d886: 200110
+  d2806c672b2f49d38944542d48d4849e: 200111
+  f3b91aa8a86b41678013885dac20f444: 200112
+  67c8fe2c4d4a4965977a5f1b3a3c5306: 200113
+  1eca4a132ef14a63a9630c341e7bab45: 200114
+  f1d83351463944dd8f15d7f5707e7c0f: 200115
+  223ff33deae64b15b9bcb41c8a79f6ba: 200116
+  943c0e8eedc54fe088e87712e8584e73: 200117
+  234ecd759c1d4367babae145eda1a460: 200118
+  3eacb3f50be749ccb451a269f29b320b: 200119
+  75cf5a8de62147898b18b53ca011506c: 200120
+  03245081de4a49b1a5d060009b7321d1: 200121
+  e87dd9af0a3f4718ab7fbbd04c1aa9d7: 200122
+  3b98201eb85044a7908e5f3240276053: 200123
+  24e98db0098442f4b8099c43a7ce0771: 200124
+  8ebdd80815fd46d2813dc95bed991982: 200125
+  d4b37eabbd8745a189e7cc61a59b83ed: 200126
+  371765fe35224c2da829b32374c8beca: 200127
+  7e1c02c8ab38416caf4bc15ad5bfffc0: 200128
+  5a5d99bda63441fb9f3d31cc2124a222: 200129
+  12beb7bf9f8d41668806822b2d7c9749: 200130
+  a32ae85dacf84be48aa598993e64c60e: 200131
+  e27f060ead2c4233ad070f0c127ccbe3: 200132
+  047616118385432487386d28712f0259: 200133
+  c507cd4b349647059c6939262e0c8587: 200134
+  c4f5bca38b104038a7c08f0dbb58c161: 200135
+  515b5822522440ebb186149526da73c6: 200136
+  a7076fd7f92b4bd6aeeb5e268eb1dc28: 200137
+  4fae490b3b8a45a58bfb633b76bb4145: 200138
+  1936530b40fd4b3fae7ca3de0dabe70e: 200139
+  39b23185f0ff438e8b0d46117b4465e0: 200140
+  da8dc1930ace48f4a59becb764c26727: 200141
+  695d955918884a7b82e7ca951c36d2bd: 200142
+  76bb1bdaf39a4525aa7db5210531efce: 200143
+  7d1807cb4f334d6a9051385ca669c472: 200144
+  1bc3dc62da334e5db1c203ab143508b7: 200145
+  3260bfa1889b432284d2ae6c493cd913: 200146
+  7e8a2be1db1f447a8d15ff1c5232ff86: 200147
+  2ed12ada4e144b2d8ae44e8cebb2c878: 200148
+  d69e632fa51c45b69d4027b712982508: 200149
+  816548e27ba1475ebc725154a95825f7: 200150
+  f08949811ff640d79aab6881641da2e9: 200151
+  c9490f549f114a5f81f0d7f541c6a815: 200152
+  dff5df3933df4e979ead4b7a439197e3: 200153
+  0fc3bc3b088d4cd098aad6c9bb40c379: 200154
+  aca60d526aee40bd955790296846e087: 200155
+  6e88ec11a8cd437c8118a95d95fde81f: 200156
+  27ff0fc39a3249b0961abd1cda9663b0: 200157
+  64116651b34249edbdd098039a319f56: 200158
+  cef18c2eaeaa40f4a40daacb57660e85: 200159
+  921db26045f34e08ad2a7ef41e6512c9: 200160
+  a4c1b4fd7ebb4aaeb64b6c2f801f3946: 200161
+  f17e277d13c24008912c1befe5dbd28e: 200162
+  3bd26fdc4fd84a05adb1e9a0b5551400: 200163
+  5aa938bf44ad4fd0ad61263429ec96ec: 200164
+  960303b30ae94d8e8abbc9d8afc0f33d: 200165
+  7fbd6cfac3d54d638291e6885c3bf7b4: 200166
+  0c56361eb0884ed485b077275289cf4d: 200167
+  98d3d0c67b664c95b0c4b3e13c04c244: 200168
+  6bfd5e110ff24ad09f2b917560364044: 200169
+  f332eca44024463fa251701ab1b151dc: 200170
+  8c1a42f59df14190b8d1f749cc07d5e6: 200171
+  58f85362dcee44da88503685b76b471e: 200172
+  250085ede46b409587710e5e80f500c8: 200173
+  5bc31f197b9942d598b85db1450f2553: 200174
+  545f0a4a52c647c697ac3a534b5fefa8: 200175
+  7bfc87f5f65d4bf29a74ba8df76b9d3b: 200176
+  3f461d407fe046eaac5081b45e158bff: 200177
+  65f9979875e2472eb6a6f15526346971: 200178
+  f0fbce880e444542bb5a8aa7b0122420: 200179
+  718a9b6112f6402e880330ff3955d588: 200180
+  3b3f95b9c2cc46b4bc13b1a5652f8138: 200181
+  61291880d2464503acdf6ee0f0b8a399: 200182
+  cb5e54ae0a7440348dc0d8cfad3021e0: 200183
+  7d04a52757f348a8a716dd12a8108929: 200184
+  259f0e8d6ac8467b92fc471eab7fb950: 200185
+  688120c060e04e2698eafde16e4afffc: 200186
+  9a77bf033437432fb75dff5933882fd4: 200187
+  fc1032167f1b48c98bfbcc239c48db2b: 200188
+  2ff01f9e53e942739b4ba0caf37f2cfb: 200189
+  3220122c9e804463b728424e5f11edf5: 200190
+  ccb7375ae6fa4e49a3dac91d3389402a: 200191
+  36b597575fed4245aac499bbc500a846: 200192
+  192f3cbddc304dd59ebff207ff6c15d2: 200193
+  be2bf56d99424493a35e17f18b4daa56: 200194
+  6dd0133e462543b28f8480a57d455c17: 200195
+  199bb7e7736647f8a18430d5c09cb228: 200196
+  cd43d2e4485743388260d83f438508cc: 200197
+  2b86fe16f5aa414d951c71d7e03bfeed: 200198
+  c62d6646f97b41b6829b5981ce865705: 200199
+  4c4b0e9d1d004acd886819a378486620: 200200
+  2a9af7b1152d4481b3d2b018902dab89: 200201
+  7638baa3c2b649d0baadfe2507345edb: 200202
+  aaf25b03eeca40e38fb1a494be221fc6: 200203
+  7fba40e0088640fb93d62b988e71f23d: 200204
+  2e2f49320c6b4b93ae582a8f2152c4e5: 200205
+  0b229b3e385146328cd7e72c5c701346: 200206
+  d452c0f8d9d14b78b396fcd96fa75f03: 200207
+  7e6a2d0b8932453c87f338ee9e03f0e3: 200208
+  3793a678a5d044628514f2fbcfed8218: 200209
+  cbce11f6af5a4005a91f571115ceab66: 200210
+  589e78f938ae447784d3bbc53ba4f880: 200211
+  aab7653fcd474820b8645b3d015f6535: 200212
+  ac891424e1084f8f85e7149b8122e8f1: 200213
+  cf84f35ea2ca47648a5782bc37e09a42: 200214
+  44605226c5be4155831be04ba93ea014: 200215
+  cd3422e652e0437f81092c03de12aabb: 200216
+  ee02f7a9e46c4dd0910866328d8c24d1: 200217
+  e5fafcb71ead46a6ad6f53c833eb5fd6: 200218
+  92bf6258109045fb86fae1772e78f541: 200219
+  178a1b494c5f4724a6b11f50d1c39d89: 200220
+  9abc89d198d24d7097a35a18f8617263: 200221
+  49f094f1b3a94571bd0ec36734aaea88: 200222
+  3fb4ddd27561431d8ef74a5f9aec17f4: 200223
+  283ff0b0006e4cf0b9ce5a8f5c632862: 200224
+  351c4ce42da543ce8f59bc5d9b36edb7: 200225
+  e6a4328ea394406a937edd343f99ba6c: 200226
+  1f8c6567bacc42dd8f195dce4d6417e5: 200227
+  177a687bde9b462aa55cd47510ca148e: 200228
+  7945e5a2e076457d844d361bff0e7dbe: 200229
+  40ab26ebf77442e395649adadbcb51a1: 200230
+  c42ca7388fbc405e997ccec1248a13b9: 200231
+  de933be666c847389ad9d8f211c5e2c0: 200232
+  d655b48bafd2436a96499b279aebc514: 200233
+  8b8924ec13a84ef1af931196a62d539b: 200234
+  f8f7abd98e3b4c3eb12e57a5738e1dc7: 200235
+  0ac8593b0f0540899d1c3215f0ab6124: 200236
+  dc6c3710b2914fd4957c62dcd3b0a314: 200237
+  15728b4b6caf4b5eaa62ab25d0608865: 200238
+  6de2e95b59874ae6a4441f594279c133: 200239
+  57ea134280eb43d5ab478a2e08ea03a2: 200240
+  227c7e84cc4749d1abc2a6570c7a73db: 200241
+  61acc78a63874a71ab8f922e491a3dc1: 200242
+  0aa4ffc6aa11420cbb6c483428cb2ba5: 200243
+  029967b758064f2bb2fe6b649b85c09f: 200244
+  6f68fd4322e347e09ee6f61632cb025e: 200245
+  21a1462a194043c595bfff4f94d7bd7f: 200246
+  926706cef5064d0d9d8b80eb377cef7b: 200247
+  2f351bd48ea9464bbbdd12e297af61ba: 200248
+  3e8a819e8bcd421db4c10525d7b76d9d: 200249
+  bf0518de96af40de8852cbec661207c5: 200250
+  8c848d24cb2f4cf689ce686e48c586a9: 200251
+  0f13267bf6254a178a0bf4e08c28714e: 200252
+  100dbe2357884f829fd4f78ee95a4328: 200253
+  bbaa491cfb5249fc8c6e94db789fe6c1: 200254
+  1e5002dc124a4110b0a18f4ea9335f32: 200255
+  3cc65766a3e74404b9c74b7e5ec85591: 200256
+  0ecbf7408f2f4180978e18a208e8b1b4: 200257
+  68cbf8ff38264c1195e79e69d8dda640: 200258
+  acbba3b4bbc040cdbf0cba7fe0cdee70: 200259
+  8fa4e0a0877e4e5cb6fa66e5a369441f: 200260
+  6ad4639113d941379fb333a02fd37113: 200261
+  1793f86acb964884a54657f81d9f9205: 200262
+  5312e6469c9947fe975cc751d1783fd7: 200263
+  7ae0a18e693b4c3db66b0fc7f4f19c6e: 200264
+  2c879e1bdc564d43b23fa4f48e4a5a71: 200265
+  7a98162c5e7341559c8a06060253c4b1: 200266
+  f9cb2df18daa41ec834f478eb6ff671a: 200267
+  c1c4db9bb2a2482798a9b35a2e7ec7d2: 200268
+  d76da185a07c407caf486e55f13e36c2: 200269
+  e64e72af73d24bd2be8a8da490f2a591: 200270
+  6119fbf09d68458b9187adfd0028bd91: 200271
+  36ea09c146be401abc7cb81f35a2ae0b: 200272
+  b89831069ede420999265801c62b03b3: 200273
+  43f115687ea4470caaca352b8248c34d: 200274
+  8789bcadbffa4c869f6056620d1a6b4b: 200275
+  44c29573dc5a4653a8b4e49e0cb93ff1: 200276
+  a341a00b588743c7bc04f2726be181ed: 200277
+  2625167b9ef44437b0b96d7456efe2c7: 200278
+  80f5a8a76722485597b16241c02899bb: 200279
+  52c805cc931d4446bd62525aff438e0f: 200280
+  bff7e621929142adbbc6947e45875b7f: 200281
+  3adce753a6a44f87b6c419cb1fb8998b: 200282
+  cfed88170ea44629b01b161c5c221194: 200283
+  513a736e604e4ef0b41600f383aad473: 200284
+  685b919c68c145a899f0be0e0058124e: 200285
+  19a48549dc5b469f8a2dcec9637922b2: 200286
+  3eb9c4445130413fb2858b7448f303e9: 200287
+  c723bac6a32a46b38377e70b1459c7de: 200288
+  ed9e6fac2e6148bcae516f9c744ca6a5: 200289
+  639ee58cf92642b89800fb3e92e48590: 200290
+  0f9bde41888e4471ac93d57e0eddf5b6: 200291
+  ce9cab462d4d462ea689ca7387701e0b: 200292
+  7b20daf8635d4b808efbfc4365b7ac3f: 200293
+  6a4f7e693af44486b5328921771036e2: 200294
+  c96d1e9123f14131a99e5db11a45f2e2: 200295
+  fc145b8098d74f968016af647f5a9671: 200296
+  11769b87e83e46eabf131fc56b517ad4: 200297
+  ae48fc3580524a68a86938766ab20dac: 200298
+  e943921bffba4987babced6158f905ed: 200299
+  5a084ec6ebb7451e9ee16ddaa4417235: 200300
+  b36478abc2cd41749a3938dde3e1f4fb: 200301
+  02943e0688b44677ad8f45bd7ae9c828: 200302
+  82c2ce0ea08141dfb60bd7a6ecca876b: 200303
+  113efd485c6c425cb76971cb39b3f29a: 200304
+  792a285449994954af89ce4a44bb0313: 200305
+  d8ade1efb7c94a8ba5e22d702b4c4510: 200306
+  95b3fd31fc0a4142b39bfc9f81f76855: 200307
+  aa22e2e13b334f9ca49ea2f346628154: 200308
+  312656533c234d3c84bf643a70a9eda5: 200309
+  183a07f8c52b46e081b4bf4719b1e13a: 200310
+  6f5a8c6268e84d26ad054aaff35e40a6: 200311
+  81bb5b70b4b743928591ccf149eccf4c: 200312
+  615735539b6f4a10b1ab1c6fefa2591f: 200313
+  c8953b41e8da44af9ba67ac4f94fbea3: 200314
+  cf5aaa1a483449a599b04242420ce3c2: 200315
+  b896648ce8fd4ccbbcff268e68523993: 200316
+  ce934e9871174e4481bbb338a2e62bd6: 200317
+  e684a819fd384decb669ac0b431009a4: 200318
