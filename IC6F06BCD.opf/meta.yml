@@ -2,7 +2,7 @@ id: IC6F06BCD
 initial_creation_type: ebook
 source_metadata:
   id: RDI-KK-23
-  title: དྭགས་བརྒྱུད་སྒྲུབ་པའི་ཐེམ་སྐས་གདམས་ངག་ཕྱོགས་བསྒྲིགས།
+  title: རྡོ་རྗེ་རྣལ་འབྱོར་མ་དང་རྒྱལ་བ་རྒྱ་མཚོའི་ལྷ་ཁྲིད་གཅེས་བཏུས།
   author: མཛད་པ་པོ། དཔའ་བོ་གཙུག་ལག་ཕྲེང་བ།, མཛད་པ་པོ། དཔའ་བོ་གཙུག་ལག་རྒྱ་མཚོ།, མཛད་པ་པོ།
     མཁས་གྲུབ་རཱ་ག་ཨ་སྱ།, མཛད་པ་པོ། ཀརྨ་ཚེ་དབང་ཀུན་ཁྱབ།
   authors: &id001
@@ -13,8 +13,9 @@ source_metadata:
   sku: RDI-KK-23
   cover: RDI-KK-23.jpeg
   volume: {}
+  title_source: epub:dc:title:ambiguous-layer
 ebook_metadata:
-  title: དྭགས་བརྒྱུད་སྒྲུབ་པའི་ཐེམ་སྐས་གདམས་ངག་ཕྱོགས་བསྒྲིགས།
+  title: རྡོ་རྗེ་རྣལ་འབྱོར་མ་དང་རྒྱལ་བ་རྒྱ་མཚོའི་ལྷ་ཁྲིད་གཅེས་བཏུས།
   authors: *id001
   sku: RDI-KK-23
   cover: RDI-KK-23.jpeg
